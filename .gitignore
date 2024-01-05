@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+.env
+node_modules
+.vscode
+=======
+.env
+>>>>>>> bf5e6a6 (Remove node_modules)
